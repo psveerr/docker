@@ -83,4 +83,5 @@ Upon running the command, the terminal will display a long Container ID, confirm
 
 Your website is now live! Open any web browser and navigate to http://localhost:8080. You should see the content from your index.html file displayed on the page.
 
-<img width="1092" height="152" alt="Screenshot from 2025-09-21 22-27-37" src="https://github.com/user-attachments/assets/75cebde5-0a37-459a-864a-94b3a989821f" />
+<img width="1092" height="152" alt="Screenshot from 2025-09-21 22-28-41" src="https://github.com/user-attachments/assets/fd71d00c-b2cd-4a1c-864a-6464a460ca8d" />
+
