@@ -54,8 +54,8 @@ Open the Dockerfile and add the necessary instructions. The configuration will t
     Inform Docker that the container will listen for traffic on port 80.
 
     Set the final command to start the Nginx server when the container launches.
-    
-<img width="1850" height="586" alt="Screenshot from 2025-09-21 22-25-36" src="https://github.com/user-attachments/assets/be091e8e-b622-4cb3-bc5e-b9160cee8eef" />
+
+<img width="1092" height="152" alt="Screenshot from 2025-09-21 22-40-02" src="https://github.com/user-attachments/assets/2b82bf70-d9d2-4b61-97cd-4622f663ed1e" />
 
 3. Build the Docker Image
 
