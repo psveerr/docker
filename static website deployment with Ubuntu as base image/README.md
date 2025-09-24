@@ -25,6 +25,7 @@ Follow these steps to get the website running on your local machine.
 Makes these files mentioned below.
 <img width="1850" height="586" alt="Screenshot from 2025-09-21 22-25-49" src="https://github.com/user-attachments/assets/031c4283-6386-4b2b-b623-e53e1d1d2285" />
 
+<img width="1850" height="586" alt="Screenshot from 2025-09-21 22-25-36" src="https://github.com/user-attachments/assets/be091e8e-b622-4cb3-bc5e-b9160cee8eef" />
 
 2. Build the Docker Image
 
